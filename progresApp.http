@@ -1,0 +1,6 @@
+@progresApp_HostAddress = http://localhost:5283
+
+GET {{progresApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
